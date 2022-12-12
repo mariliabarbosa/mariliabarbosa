@@ -14,7 +14,7 @@ Olá! Meu nome é Marília, tenho 20 anos e estou no meu terceiro ano do curso d
   <a href="https://www.linkedin.com/in/mariliarbarbosa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
-## 🧐 Estatísticas do github
+## 🧐 Estatísticas do Github:
 
 <div>
 <a href="https://github.com/mariliabarbosa">
