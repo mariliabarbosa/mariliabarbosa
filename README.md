@@ -1,17 +1,18 @@
-### Bem vindo!👋
+## Bem vindo!👋
+<div align="center"><img src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv"/></div>
+Olá! Meu nome é Marília, tenho 20 anos e estou no meu terceiro ano do curso de Ciência da Computação. Atualmente trabalho como UI/UX designer, mas ainda estudo e já trabalhei com desenvolvimento de software, principalmente na stack back-end. Sinta-se livre para explorar meus projetos!
 
-Meu nome é Marília, tenho 20 anos e estou no meu terceiro ano do curso de Ciência da Computação. Atualmente trabalho como UI/UX designer, mas ainda estudo e já trabalhei com desenvolvimento de software, principalmente na stack back-end!
+## 🔭 Estou atualmente trabalhando com:
+<img src="https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
 
-- 🔭 Estou atualmente trabalhando com:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+## 🤔 Tecnologias que sou familizariada:
 
-- 🤔 Tecnologias que sou familizariada:
+<img src="https://img.shields.io/badge/Elixir-purple?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir Badge"/><img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-
-- 📫 Como me contatar:
-<a href="https://www.linkedin.com/in/mariliarbarbosa/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="100" height="80"/></a>
+## 📫 Como me contatar:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mariliarbarbosa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</div>
 
 <div>
 <a href="https://github.com/mariliabarbosa">
