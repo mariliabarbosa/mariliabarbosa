@@ -12,6 +12,7 @@ Olá! Meu nome é Marília, tenho 21 anos e sou formada em Ciência da Computaç
   ![](https://github-readme-streak-stats.herokuapp.com/?user=mariliabarbosa&theme=github_dark&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariliabarbosa&layout=donut&theme=github_dark&hide_border=true)
   
 </div>
+
 ## 🔭 I am currently working with/ Atualmente trabalho com:
 <img src="https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
 
