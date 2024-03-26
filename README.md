@@ -19,4 +19,5 @@ Olá! Meu nome é Marília, tenho 21 anos e sou formada em Ciência da Computaç
   <a href="https://www.linkedin.com/in/mariliarbarbosa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariliabarbosa&layout=donut&theme=github_dark)]
+![](https://github-readme-streak-stats.herokuapp.com/?user=mariliabarbosa&theme=github_dark&hide_border=true)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariliabarbosa&layout=donut&theme=github_dark&hide_border=true)]
