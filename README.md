@@ -13,14 +13,14 @@ Olá! Meu nome é Marília, tenho 21 anos e sou formada em Ciência da Computaç
   
 </div>
 
-## 🔭 I am currently working with/ Atualmente trabalho com:
+## 🔭 I am currently working with | Atualmente trabalho com:
 <img src="https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
 
-## ✨ Technologies I am familiar with/ Tecnologias que sou familiarizada:
+## ✨ Technologies I am familiar with | Tecnologias com que sou familiarizada:
 
 <img src="https://img.shields.io/badge/Elixir-purple?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir Badge"/><img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
 
-## 📫 How to contact me/ Como me contatar:
+## 📫 How to contact me | Como me contatar:
 <div id="badges">
   <a href="https://www.linkedin.com/in/mariliarbarbosa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
