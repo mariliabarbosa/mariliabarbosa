@@ -1,5 +1,7 @@
 ## Welcome!👋
-<div align="center"><img src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv"/></div>
+<div align="center"><img src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv"/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mariliabarbosa&theme=github_dark&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariliabarbosa&layout=donut&theme=github_dark&hide_border=true)</div>
 [EN]
 Hello! My name is Marília, I'm 21 years old, and I have a degree in Computer Science. Currently, I work as a UI/UX designer, but I'm still studying and have previous experience in software development, mainly in the back-end stack. Feel free to explore my projects and contact me!
 
@@ -19,4 +21,3 @@ Olá! Meu nome é Marília, tenho 21 anos e sou formada em Ciência da Computaç
   <a href="https://www.linkedin.com/in/mariliarbarbosa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mariliabarbosa&theme=github_dark&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariliabarbosa&layout=donut&theme=github_dark&hide_border=true)
