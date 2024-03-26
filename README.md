@@ -7,9 +7,9 @@ Hello! My name is Marília, I'm 21 years old, and I hold a degree in Computer Sc
 [PT-BR]
 Olá! Meu nome é Marília, tenho 21 anos e sou formada em Ciência da Computação. Atualmente atuo como UI/UX Designer e Desenvolvedora Front-end, mas ainda estou estudando e tenho experiência anterior em desenvolvimento de software na stack back-end. Sinta-se à vontade para explorar meus projetos e entrar em contato comigo!
 
-<div align="center">
+<div align="center" width="100%">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariliabarbosa&layout=donut&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariliabarbosa&layout=compact&theme=github_dark&hide_border=true&card_width=1000px)
   
 </div>
 
