@@ -20,4 +20,4 @@ Olá! Meu nome é Marília, tenho 21 anos e sou formada em Ciência da Computaç
 </div>
 
 [![Marilias's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariliabarbosa)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariliabarbosa&layout=pie)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariliabarbosa&layout=compact)]
